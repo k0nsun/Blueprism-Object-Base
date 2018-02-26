@@ -12,10 +12,10 @@ Example of implementation for configuration, manage errors, interact with excel 
 * send email based on configuration
 * can send screen shoot
 
-#Interact with excel
+##Interact with excel
 * get and set informations with Named Ranges
 
-#Generate report
+##Generate report
 * send email based on configuration
 * save the report
  
